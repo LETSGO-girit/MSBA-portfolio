@@ -26,3 +26,8 @@ touch 03_statistics/regression_analysis.ipynb
 touch 04_data_visualization/tableau_dashboard.png
 touch 04_data_visualization/matplotlib_examples.ipynb
 touch 05_capstone_project/report.pdf
+
+git add .
+git commit -m "Initial folder structure for MSBA prep portfolio"
+git push origin main
+
